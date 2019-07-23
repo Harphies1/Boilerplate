@@ -10,4 +10,4 @@ Steps:
 4. Rename your project with `python manage.py rename yourprojectname`
 5. Add static_in_env folder to the BASE_DIR
 
-(reference)[https://github.com/justdjango/django_project_boilerplate]
+[Reference](https://github.com/justdjango/django_project_boilerplate)
